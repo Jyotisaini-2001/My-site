@@ -155,3 +155,10 @@ position:absolute;
    border-radius: 20px;
    text-decoration: none;
 }
+   .image{
+     width: 30px;
+
+}
+.image:hover{
+  border: solid yellow 2px;
+}
